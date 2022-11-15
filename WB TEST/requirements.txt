@@ -1,0 +1,8 @@
+discord==1.7.3
+discord.py==1.7.3
+wikipedia==1.4.0
+requests==2.25.0
+xmltodict==0.12.0
+xmltodict3==0.0.4
+bs4==0.0.1
+html5lib==1.1
